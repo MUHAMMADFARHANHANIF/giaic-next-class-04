@@ -1,0 +1,7 @@
+shadcn 
+innstall
+nextjs
+
+
+npx shadcn@latest init
+npx shadcn@latest add button
